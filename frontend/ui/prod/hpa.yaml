@@ -3,5 +3,5 @@ kind: HorizontalPodAutoscaler
 metadata:
   name: ui
 spec:
-  maxReplicas: 3
+  maxReplicas: 4
   minReplicas: 3
